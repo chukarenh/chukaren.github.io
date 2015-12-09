@@ -1,5 +1,5 @@
 body {
-	background: images/landsend.jpg;
+	background-image: url("images/landsend.jpg");
 	background-size: cover;
 }
 
