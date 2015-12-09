@@ -1,8 +1,21 @@
 body {
-	background-image: url("images/landsend.jpg");
+	background-image: url("../images/555california.jpg");
 	background-size: cover;
+	font-family: Avenir-book;
+	color: #440e62;
 }
 
-h1,p {
-	color: #00afff;
+h1{
+	text-align: center;
+	color: #790000;
+}
+
+h2{
+	text-transform: bold;
+}
+
+#slogan {
+	color: #0076a3;
+	font-style: italic;
+
 }
