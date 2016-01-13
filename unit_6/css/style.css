@@ -1,0 +1,91 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,700);
+
+body {
+	*background-image: url("../images/555california.jpg");*
+	background-size: cover;
+	font-family: Avenir-book;
+	color: #440e62;
+}
+
+header{
+	background-color: #FFED74;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+h1{
+	font-family: Oswald, Avenir-book; 
+	font-weight: bold;
+	font-size: 72px;
+	text-align: center;
+	color: #790000;
+}
+
+h2{
+	font-family: Oswald, Avenir-book; 
+	font-weight: normal;
+	font-size: 20px;
+	text-align: center;
+	text-transform: bold;
+}
+
+.clearfix:after{
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+#two_column{
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left{
+	background-color: #E582A2;
+	border: 1px solid black;
+	padding: 20px;
+	float: left;
+	width: 30%;
+}
+
+#right{
+	background-color:#E55B88;
+	border: 1px black solid;
+	padding: 20px;
+	float: right;
+	width: 62%;
+}
+
+nav{
+	background-color: #E8C66A;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+article{
+	background-color: #E89C6C;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+footer{
+	background-color: #FF957E;
+	border: 1px solid black;
+	padding: 20px;
+}
+
+.ImageLineBlocks {
+	display: block;
+	text-align: center;
+}
+
+#slogan {
+	color: #0076a3;
+	font-style: italic;
+	text-align: justify; center;
+
+}
